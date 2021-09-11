@@ -1,8 +1,6 @@
 # Pomodoro Timer
 
-I created the Pomodoro Timer because I wanted to find a way to better organize myself when studying computer science. 
-
-The way the Pomodoro method works is simple. 
+I created the Pomodoro Timer because I wanted to find a way to better organize myself when studying computer science. The way the Pomodoro method works is simple. 
 
 **Step 1**: set the timer for 25 minutes. 
 
